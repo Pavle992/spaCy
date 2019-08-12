@@ -2,6 +2,7 @@
 from __future__ import unicode_literals
 
 
+# Source: https://github.com/Pavle992/extra-stopwords/blob/master/serbian-cyrillic
 STOP_WORDS = set(
     """
 а
